@@ -23,4 +23,5 @@ erl_crash.dump
 identicon-*.tar
 
 *.png       
+doc/
 *.lock   
